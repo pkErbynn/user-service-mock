@@ -1,5 +1,7 @@
 {
   "users": [
-   { "id": 1, "name": "Margaret", "email": "margaret@abc.com", "tech": "Scala", "dance": "Zanku"}
+   { "id": 1, 
+    "name": "Margaret", "email": "margaret@abc.com", "tech": "Scala", "dance": "Zanku"
+   }
   ]
 }

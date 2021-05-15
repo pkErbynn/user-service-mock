@@ -1,11 +1,9 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "users": [
+    { "id": "8c62fa4f-72bf-4ffb-b5eb-6875eae224be", 
+     "name": "Erb", 
+     "email": "erb@abc.com", 
+     "tech": ".NET", "dance": "Pocco"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

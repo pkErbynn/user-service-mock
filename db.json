@@ -1,6 +1,5 @@
 {
   "users": [
-   { "id": "e1b2ae5c-455d-4aaf-bf99-44e1f011afe6", "name": "Margaret", "email": "margaret@abc.com", "tech": "Scala", "dance": "Zanku"}
-   
+   { "id": 1, "name": "Margaret", "email": "margaret@abc.com", "tech": "Scala", "dance": "Zanku"}
   ]
 }

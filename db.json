@@ -1,7 +1,8 @@
 {
   "users": [
    { "id": 1, 
-    "name": "Margaret", "email": "margaret@abc.com", "tech": "Scala", "dance": "Zanku"
+    "name": "Margaret", 
+    "email": "margaret@abc.com"
    }
   ]
 }

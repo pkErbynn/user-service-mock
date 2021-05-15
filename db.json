@@ -3,12 +3,12 @@
     { "id": "8c62fa4f-72bf-4ffb-b5eb-6875eae224be", 
      "name": "Erb", 
      "email": "erb@abc.com", 
-     "tech": ".NET", "dance": "Pocco"
+     "tech": ".NET", 
+     "dance": "Pocco"
     }, 
-    { "id": "e1b2ae5c-455d-4aaf-bf99-44e1f011afe8", "name": "Margaret", "email": "margaret@abc.com", "tech": "Scala", "dance": "Zanku"},
-    { "id": "c2ac350b-1282-408d-b0cf-dea9f9fff368", "name": "Raphael", "email": "raphael@abc.com", "tech": "Azonto" , "dance": "Shaku Shaku"},
-    { "id": "c2ac350b-1282-408d-b0cf-dea9f9fff368", "name": "Anthony", "email": "anthony@abc.com", "tech": "Python", "dance": "Pilolo"},
-    { "id": "c2ac350b-1282-408d-b0cf-dea9f9fff368", "name": "Dela", "email": "dela@abc.com", "tech": "Java", "dance": "Gwara Gwara"},
-    { "id": "c2ac350b-1282-408d-b0cf-dea9f9fff368", "name": "Selase", "email": "selase@abc.com", "tech": "Photoshop", "dance": "Amanda"}
+    { 
+      "id": "e1b2ae5c-455d-4aaf-bf99-44e1f011afe8", "name": "Margaret", "email": "margaret@abc.com", "tech": "Scala", "dance": "Zanku"
+    }
+    
   ]
 }

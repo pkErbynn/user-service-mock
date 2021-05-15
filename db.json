@@ -5,10 +5,6 @@
      "email": "erb@abc.com", 
      "tech": ".NET", 
      "dance": "Pocco"
-    }, 
-    { 
-      "id": "e1b2ae5c-455d-4aaf-bf99-44e1f011afe8", "name": "Margaret", "email": "margaret@abc.com", "tech": "Scala", "dance": "Zanku"
-    }
-    
+    }    
   ]
 }
